@@ -42,7 +42,7 @@ client.on("message", async message => {
   const comando = args.shift().toLowerCase();
   
   if(comando === "lista"){
-    message.reply('\nDigite "!"+"o audio que desejar"\n1. tome\n2. queisso \n3. cavalo\n4. paulin');  
+    message.reply('\nDigite "!"+"o audio que desejar"\n1. tome\n2. queisso \n3. cavalo\n4. paulin\n5. pele\n6. gardenal');  
 }
 
 
